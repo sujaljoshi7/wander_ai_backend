@@ -1,0 +1,38 @@
+[
+  {
+    "id": "jaipur-lmb",
+    "name": "Laxmi Misthan Bhandar (LMB)",
+    "city": "Jaipur",
+    "cuisine": ["Rajasthani", "Vegetarian"],
+    "price_level": "₹₹",
+    "must_try": ["Ghewar", "Dal Baati Churma"],
+    "tags": ["veg", "family"]
+  },
+  {
+    "id": "jaipur-chokhi-dhani",
+    "name": "Chokhi Dhani",
+    "city": "Jaipur",
+    "cuisine": ["Traditional Rajasthani Thali"],
+    "price_level": "₹₹₹",
+    "must_try": ["Dal Baati", "Churma", "Ker Sangri"],
+    "tags": ["cultural", "family", "couple"]
+  },
+  {
+    "id": "jaipur-tapri",
+    "name": "Tapri Central",
+    "city": "Jaipur",
+    "cuisine": ["Café", "Snacks"],
+    "price_level": "₹₹",
+    "must_try": ["Tandoori Maggi", "Adrak Chai"],
+    "tags": ["youth", "casual", "friends"]
+  },
+  {
+    "id": "jaipur-1135-ad",
+    "name": "1135 AD",
+    "city": "Jaipur",
+    "cuisine": ["Mughlai", "North Indian"],
+    "price_level": "₹₹₹₹",
+    "must_try": ["Laal Maas", "Royal Platter"],
+    "tags": ["fine-dining", "heritage", "couple"]
+  }
+]

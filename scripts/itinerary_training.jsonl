@@ -1,0 +1,100 @@
+{"messages": [{"role": "user", "content": "{\"city\": \"Jamvala (Kodinar)\", \"days\": 5, \"suitable_for\": \"family\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Dhordo (Kutch)\", \"days\": 5, \"suitable_for\": \"couple\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Ahmedabad\", \"days\": 5, \"suitable_for\": \"family\", \"trip_type\": \"general\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Dhordo (Kutch)\", \"days\": 3, \"suitable_for\": \"group\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Madhavpur Ghed\", \"days\": 3, \"suitable_for\": \"group\", \"trip_type\": \"general\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Panchmahal (Champaner/Pavagadh)\", \"days\": 4, \"suitable_for\": \"family\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Mehsana\", \"days\": 4, \"suitable_for\": \"solo\", \"trip_type\": \"leisure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Mehsana\", \"days\": 4, \"suitable_for\": \"solo\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Champaner\", \"days\": 5, \"suitable_for\": \"couple\", \"trip_type\": \"adventure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Mandvi (Kutch)\", \"days\": 3, \"suitable_for\": \"family\", \"trip_type\": \"leisure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Madhavpur Ghed\", \"days\": 3, \"suitable_for\": \"solo\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Mundra (Kutch)\", \"days\": 4, \"suitable_for\": \"group\", \"trip_type\": \"leisure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Shivrajpur (near Pavagadh/Champaner)\", \"days\": 3, \"suitable_for\": \"solo\", \"trip_type\": \"leisure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Naliya (near Jakhau)\", \"days\": 2, \"suitable_for\": \"group\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Panchmahal\", \"days\": 3, \"suitable_for\": \"group\", \"trip_type\": \"adventure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Vadla (near Ahmedabad)\", \"days\": 2, \"suitable_for\": \"couple\", \"trip_type\": \"adventure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Narayan Sarovar (Lakhpat)\", \"days\": 3, \"suitable_for\": \"couple\", \"trip_type\": \"general\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Modhera\", \"days\": 2, \"suitable_for\": \"solo\", \"trip_type\": \"leisure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Chorwad (Junagadh)\", \"days\": 2, \"suitable_for\": \"couple\", \"trip_type\": \"adventure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Junagadh\", \"days\": 2, \"suitable_for\": \"group\", \"trip_type\": \"general\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Prachi (Sutrapada)\", \"days\": 5, \"suitable_for\": \"group\", \"trip_type\": \"adventure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Waghai\", \"days\": 5, \"suitable_for\": \"couple\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Vadla (near Ahmedabad)\", \"days\": 5, \"suitable_for\": \"solo\", \"trip_type\": \"general\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Jafarabad\", \"days\": 3, \"suitable_for\": \"family\", \"trip_type\": \"leisure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Junagadh\", \"days\": 2, \"suitable_for\": \"couple\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Saputara\", \"days\": 2, \"suitable_for\": \"couple\", \"trip_type\": \"adventure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Sasan Gir region\", \"days\": 4, \"suitable_for\": \"group\", \"trip_type\": \"adventure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Mehsana\", \"days\": 4, \"suitable_for\": \"family\", \"trip_type\": \"general\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Tulsi Shyam\", \"days\": 5, \"suitable_for\": \"solo\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Champaner-Pavagadh\", \"days\": 4, \"suitable_for\": \"couple\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Gandhidham (Kandla)\", \"days\": 3, \"suitable_for\": \"family\", \"trip_type\": \"general\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Mandvi (Kutch)\", \"days\": 5, \"suitable_for\": \"solo\", \"trip_type\": \"general\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Champaner-Pavagadh\", \"days\": 3, \"suitable_for\": \"group\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Waghai\", \"days\": 4, \"suitable_for\": \"couple\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Champaner-Pavagadh\", \"days\": 3, \"suitable_for\": \"couple\", \"trip_type\": \"leisure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Naliya (near Jakhau)\", \"days\": 4, \"suitable_for\": \"solo\", \"trip_type\": \"adventure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Somnath\", \"days\": 5, \"suitable_for\": \"family\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Tulsi Shyam\", \"days\": 2, \"suitable_for\": \"couple\", \"trip_type\": \"general\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Tulsi Shyam\", \"days\": 2, \"suitable_for\": \"family\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Panchmahal (Champaner/Pavagadh)\", \"days\": 5, \"suitable_for\": \"couple\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Dholka Taluka (near Ahmedabad)\", \"days\": 3, \"suitable_for\": \"solo\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Bhuj\", \"days\": 5, \"suitable_for\": \"family\", \"trip_type\": \"leisure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Mehsana\", \"days\": 2, \"suitable_for\": \"family\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Prachi (Sutrapada)\", \"days\": 3, \"suitable_for\": \"group\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Sasan Gir\", \"days\": 4, \"suitable_for\": \"couple\", \"trip_type\": \"general\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Waghai\", \"days\": 2, \"suitable_for\": \"solo\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Gandhidham (Kandla)\", \"days\": 4, \"suitable_for\": \"couple\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Sasan Gir (Junagadh)\", \"days\": 2, \"suitable_for\": \"family\", \"trip_type\": \"adventure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Champaner-Pavagadh\", \"days\": 3, \"suitable_for\": \"family\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Narayan Sarovar (Lakhpat)\", \"days\": 4, \"suitable_for\": \"group\", \"trip_type\": \"leisure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Junagadh\", \"days\": 2, \"suitable_for\": \"group\", \"trip_type\": \"adventure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Navsari\", \"days\": 5, \"suitable_for\": \"couple\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Panchmahal\", \"days\": 5, \"suitable_for\": \"family\", \"trip_type\": \"adventure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Narayan Sarovar (Lakhpat)\", \"days\": 2, \"suitable_for\": \"solo\", \"trip_type\": \"leisure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Shivrajpur (near Pavagadh/Champaner)\", \"days\": 5, \"suitable_for\": \"family\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Khavda (near Bhuj)\", \"days\": 4, \"suitable_for\": \"group\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Bhuj\", \"days\": 3, \"suitable_for\": \"couple\", \"trip_type\": \"general\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Ahmedpur-Mandvi\", \"days\": 2, \"suitable_for\": \"solo\", \"trip_type\": \"general\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Somnath (Veraval)\", \"days\": 4, \"suitable_for\": \"couple\", \"trip_type\": \"adventure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Champaner\", \"days\": 3, \"suitable_for\": \"couple\", \"trip_type\": \"adventure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Sasan Gir\", \"days\": 3, \"suitable_for\": \"solo\", \"trip_type\": \"adventure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Amarapur (near Gandhinagar/Ahmedabad)\", \"days\": 5, \"suitable_for\": \"family\", \"trip_type\": \"adventure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Mundra (Kutch)\", \"days\": 2, \"suitable_for\": \"solo\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Khadirbet (near Dholavira village)\", \"days\": 4, \"suitable_for\": \"solo\", \"trip_type\": \"leisure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Patan\", \"days\": 5, \"suitable_for\": \"solo\", \"trip_type\": \"adventure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Pavagadh\", \"days\": 4, \"suitable_for\": \"couple\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Champaner\", \"days\": 4, \"suitable_for\": \"solo\", \"trip_type\": \"general\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Ahwa\", \"days\": 3, \"suitable_for\": \"solo\", \"trip_type\": \"adventure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Tulsi Shyam\", \"days\": 2, \"suitable_for\": \"group\", \"trip_type\": \"adventure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Vadodara\", \"days\": 2, \"suitable_for\": \"group\", \"trip_type\": \"adventure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Kutch (Great Rann region; access via Bhuj/Khavda)\", \"days\": 4, \"suitable_for\": \"couple\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Panchmahal\", \"days\": 5, \"suitable_for\": \"group\", \"trip_type\": \"leisure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Ahwa\", \"days\": 5, \"suitable_for\": \"family\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Vadodara\", \"days\": 5, \"suitable_for\": \"group\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Modhera\", \"days\": 4, \"suitable_for\": \"family\", \"trip_type\": \"adventure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Somnath (Prabhas Patan)\", \"days\": 4, \"suitable_for\": \"solo\", \"trip_type\": \"leisure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Panchmahal (Champaner/Pavagadh)\", \"days\": 2, \"suitable_for\": \"solo\", \"trip_type\": \"general\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Champaner-Pavagadh\", \"days\": 5, \"suitable_for\": \"solo\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Ahwa\", \"days\": 5, \"suitable_for\": \"family\", \"trip_type\": \"leisure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Ahwa\", \"days\": 5, \"suitable_for\": \"family\", \"trip_type\": \"adventure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Waghai\", \"days\": 4, \"suitable_for\": \"couple\", \"trip_type\": \"general\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Saputara\", \"days\": 5, \"suitable_for\": \"solo\", \"trip_type\": \"general\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Near Kodki/Ulat (Bhuj)\", \"days\": 3, \"suitable_for\": \"family\", \"trip_type\": \"general\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Madhavpur Ghed\", \"days\": 4, \"suitable_for\": \"solo\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Naliya (near Jakhau)\", \"days\": 5, \"suitable_for\": \"couple\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Narmada (near Ekta Nagar)\", \"days\": 2, \"suitable_for\": \"family\", \"trip_type\": \"leisure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Dang\", \"days\": 2, \"suitable_for\": \"solo\", \"trip_type\": \"general\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Bharuch (Shuklatirth)\", \"days\": 5, \"suitable_for\": \"family\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Hatgad\", \"days\": 3, \"suitable_for\": \"couple\", \"trip_type\": \"general\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Sasan Gir\", \"days\": 5, \"suitable_for\": \"couple\", \"trip_type\": \"general\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Dang\", \"days\": 3, \"suitable_for\": \"group\", \"trip_type\": \"leisure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Kutch (Great Rann region; access via Bhuj/Khavda)\", \"days\": 5, \"suitable_for\": \"couple\", \"trip_type\": \"general\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Dang\", \"days\": 2, \"suitable_for\": \"family\", \"trip_type\": \"general\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Kutch (Great Rann region; access via Bhuj/Khavda)\", \"days\": 2, \"suitable_for\": \"couple\", \"trip_type\": \"adventure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Sasan Gir region\", \"days\": 3, \"suitable_for\": \"couple\", \"trip_type\": \"spiritual\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Vadla (near Ahmedabad)\", \"days\": 3, \"suitable_for\": \"group\", \"trip_type\": \"general\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Champaner\", \"days\": 3, \"suitable_for\": \"couple\", \"trip_type\": \"adventure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Gandhidham (Kandla)\", \"days\": 2, \"suitable_for\": \"family\", \"trip_type\": \"leisure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Kutch (Great Rann region; access via Bhuj/Khavda)\", \"days\": 2, \"suitable_for\": \"group\", \"trip_type\": \"adventure\"}"}, {"role": "assistant", "content": "{}"}]}
+{"messages": [{"role": "user", "content": "{\"city\": \"Vadla (near Ahmedabad)\", \"days\": 2, \"suitable_for\": \"solo\", \"trip_type\": \"leisure\"}"}, {"role": "assistant", "content": "{}"}]}

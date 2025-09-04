@@ -1,0 +1,8 @@
+venv/
+.env
+__pycache__/
+alembic/__pycache__/
+alembic/versions/__pycache__/
+alembic/versions/*
+Website/
+app/__pycache__

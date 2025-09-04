@@ -1,0 +1,47 @@
+[
+  {
+    "id": "jaipur-amber-fort",
+    "name": "Amber Fort",
+    "city": "Jaipur",
+    "duration_mins": 120,
+    "entry_fee": 200,
+    "best_months": ["Nov", "Dec", "Jan", "Feb"],
+    "tags": ["heritage", "fort", "architecture"]
+  },
+  {
+    "id": "jaipur-hawa-mahal",
+    "name": "Hawa Mahal",
+    "city": "Jaipur",
+    "duration_mins": 60,
+    "entry_fee": 50,
+    "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar"],
+    "tags": ["architecture", "palace", "photography"]
+  },
+  {
+    "id": "jaipur-city-palace",
+    "name": "City Palace",
+    "city": "Jaipur",
+    "duration_mins": 90,
+    "entry_fee": 150,
+    "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar"],
+    "tags": ["heritage", "museum", "royal"]
+  },
+  {
+    "id": "jaipur-jantar-mantar",
+    "name": "Jantar Mantar",
+    "city": "Jaipur",
+    "duration_mins": 60,
+    "entry_fee": 100,
+    "best_months": ["Nov", "Dec", "Jan", "Feb"],
+    "tags": ["observatory", "UNESCO", "science"]
+  },
+  {
+    "id": "jaipur-albert-hall",
+    "name": "Albert Hall Museum",
+    "city": "Jaipur",
+    "duration_mins": 75,
+    "entry_fee": 40,
+    "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar"],
+    "tags": ["museum", "art", "history"]
+  }
+]

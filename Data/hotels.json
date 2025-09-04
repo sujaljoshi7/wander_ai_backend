@@ -1,0 +1,38 @@
+[
+  {
+    "id": "jaipur-samode-haveli",
+    "name": "Samode Haveli",
+    "city": "Jaipur",
+    "class": "Heritage 4*",
+    "avg_price_inr": 9000,
+    "amenities": ["wifi", "pool", "heritage-style", "breakfast"],
+    "tags": ["heritage", "luxury", "couple"]
+  },
+  {
+    "id": "jaipur-trident",
+    "name": "Trident Jaipur",
+    "city": "Jaipur",
+    "class": "5*",
+    "avg_price_inr": 8500,
+    "amenities": ["wifi", "pool", "restaurant", "bar"],
+    "tags": ["family", "luxury", "lake-view"]
+  },
+  {
+    "id": "jaipur-holiday-inn",
+    "name": "Holiday Inn Jaipur City Centre",
+    "city": "Jaipur",
+    "class": "4*",
+    "avg_price_inr": 5000,
+    "amenities": ["wifi", "gym", "pool", "business-centre"],
+    "tags": ["business", "family", "budget-luxury"]
+  },
+  {
+    "id": "jaipur-ginger",
+    "name": "Ginger Jaipur",
+    "city": "Jaipur",
+    "class": "3*",
+    "avg_price_inr": 2500,
+    "amenities": ["wifi", "restaurant"],
+    "tags": ["budget", "solo", "backpacker"]
+  }
+]
