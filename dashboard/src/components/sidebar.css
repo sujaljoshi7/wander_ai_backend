@@ -1,0 +1,108 @@
+.sidebar {
+  width: 260px;
+  background: linear-gradient(180deg, #0f2027, #203a43, #2c5364);
+  border-right: 1px solid rgba(255, 255, 255, 0.08);
+  height: 100vh;
+  position: sticky;
+  top: 0;
+  padding: 16px 12px;
+  box-sizing: border-box;
+  color: #e2e8f0;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 700;
+  font-size: 18px;
+  margin-bottom: 12px;
+}
+
+.nav {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.section {
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.section-header {
+  width: 100%;
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  color: #f8fafc;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 12px;
+  border-radius: 8px;
+}
+
+.section-header:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.chev {
+  transition: transform 0.2s ease;
+}
+
+.chev.rot {
+  transform: rotate(180deg);
+}
+
+.menu {
+  list-style: none;
+  padding: 6px 4px 8px 6px;
+  margin: 4px 0 8px 0;
+}
+
+.link {
+  display: block;
+  padding: 8px 10px;
+  color: #e2e8f0;
+  text-decoration: none;
+  border-radius: 6px;
+  position: relative;
+  transition: background 0.2s ease, color 0.2s ease, transform 0.15s ease;
+}
+
+.link::before {
+  content: "";
+  position: absolute;
+  left: 4px;
+  top: 50%;
+  transform: translateY(-50%) scaleY(0);
+  transform-origin: center;
+  width: 3px;
+  height: 70%;
+  border-radius: 2px;
+  background: #7dd3fc; /* cyan accent */
+  transition: transform 0.2s ease;
+}
+
+.link:hover {
+  background: rgba(255, 255, 255, 0.2);
+  color: #ffffff;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  transform: none;
+}
+
+.link:hover::before {
+  transform: translateY(-50%) scaleY(1);
+}
+
+.link.active {
+  background: rgba(255, 255, 255, 0.2);
+  color: #ffffff;
+  font-weight: 600;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.link.active::before {
+  transform: translateY(-50%) scaleY(1);
+}

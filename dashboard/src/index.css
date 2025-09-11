@@ -1,0 +1,128 @@
+/* Base light theme suitable for Bootstrap */
+:root {
+  /* Global gradient tokens - edit here to update everywhere */
+  --grad-angle: 135deg;
+  --grad-1: #0f2027;
+  --grad-2: #203a43;
+  --grad-3: #2c5364;
+  --gradient: linear-gradient(var(--grad-angle), var(--grad-1), var(--grad-2), var(--grad-3));
+  --accent: #7dd3fc; /* sidebar accent bar */
+
+
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+  line-height: 1.5;
+  font-weight: 400;
+  color: #0f172a;
+  background-color: #ffffff;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html, body, #root { height: 100%; }
+a { color: #0d6efd; text-decoration: none; }
+a:hover { color: #0a58ca; text-decoration: none; }
+
+/* Gradient button to match sidebar/app theme */
+.btn-gradient {
+  background: var(--gradient);
+  color: #ffffff !important;
+  border: 0;
+}
+.btn-gradient:hover,
+.btn-gradient:focus,
+.btn-gradient:active {
+  background: var(--gradient) !important;
+  color: #ffffff !important;
+  filter: brightness(1.08);
+}
+
+/* Common button hover utility (use alongside Bootstrap classes) */
+.btn-hover:hover { filter: brightness(1.08); }
+
+/* Keep secondary buttons gray (no gradient) */
+.btn.btn-secondary {
+  background-color: #6c757d;
+  border-color: #6c757d;
+  color: #fff;
+}
+.btn.btn-secondary:hover,
+.btn.btn-secondary:focus { filter: brightness(1.02); }
+
+/* Gradient accents for form controls */
+.form-control:focus,
+.form-select:focus {
+  border-color: var(--grad-3) !important;
+  box-shadow: 0 0 0 0.2rem rgba(44, 83, 100, 0.25) !important;
+}
+
+/* Checkbox and radio checked state with gradient fill */
+.form-check-input:checked {
+  /* White tick over gradient */
+  background-image:
+    url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23ffffff'%3e%3cpath d='M13.485 1.929a1 1 0 0 1 0 1.414L6.343 10.485a1 1 0 0 1-1.414 0L2.515 8.071a1 1 0 1 1 1.414-1.414l1.586 1.586 6.343-6.343a1 1 0 0 1 1.414 0z'/%3e%3c/svg%3e"),
+    var(--gradient);
+  background-repeat: no-repeat, no-repeat;
+  background-position: center, center;
+  background-size: 0.75em 0.75em, cover;
+  border-color: var(--grad-3) !important;
+}
+
+/* Switch (if used) */
+.form-switch .form-check-input:checked {
+  background-image: var(--gradient) !important;
+}
+
+/* Gradient header for reusable Modal component */
+.header-gradient {
+  background: var(--gradient);
+  color: #ffffff;
+}
+.header-gradient .btn-close,
+.header-gradient .btn-close:hover,
+.header-gradient .btn-close:focus {
+  opacity: 1; /* prevent Bootstrap hover dimming */
+}
+
+/* Simple list styling for SearchableSelect dropdown */
+.list-select .dropdown-item {
+  border-radius: 0;
+}
+.list-select .dropdown-item + .dropdown-item {
+  border-top: 1px solid #e9ecef;
+}
+
+ body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background: #f8fafc;
+  color: #0f172a;
+ }
+
+ h1 {
+  font-size: 1.25rem;
+  line-height: 1.3;
+ }
+
+ button {
+  border-radius: 8px;
+  border: 1px solid #e5e7eb;
+  padding: 0.6em 1.0em;
+  font-size: 0.95em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #ffffff;
+  cursor: pointer;
+  transition: border-color 0.2s, background-color 0.2s;
+ }
+ button:hover {
+  border-color: #c7d2fe;
+  background: #eef2ff;
+ }
+ button:focus,
+ button:focus-visible {
+  outline: 3px solid #c7d2fe;
+  outline-offset: 1px;
+ }

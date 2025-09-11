@@ -1,0 +1,4 @@
+/* App-level utilities (keep minimal) */
+#root {
+  min-height: 100vh;
+}

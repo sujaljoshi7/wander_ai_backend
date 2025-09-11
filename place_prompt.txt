@@ -13,6 +13,7 @@ Special Enforcement:
 - `season_score`: must always include all 12 months as numeric values (0 if unknown).
 - `geo` lat/lng: must always be numbers (use `0.0` if unknown).
 - Strictly follow the schema structure. If you cannot find a value, use the default.
+- best_time_of_day_to_visit this should contain best time like ["08:00-22:00"]["09:00-21:00"]
 Exact schema to produce (must be matched verbatim — keys, order, and types must be preserved):
 {
 "id": "",
@@ -30,6 +31,7 @@ Exact schema to produce (must be matched verbatim — keys, order, and types mus
 "description": "",
 "avg_visit_mins": 0,
 "entry_fee": { "currency": "", "adult": 0, "child": 0, "foreign": 0 },
+"best_time_of_day_to_visit": ""
 "open_hours": {
 "mon": [],
 "tue": [],

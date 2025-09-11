@@ -17,6 +17,10 @@ import asyncio
 # from app.utils.logger import schedule_daily_email
 
 from app.api.places.router import router as places_router
+from app.api.countries.router import router as country_router
+from app.api.states.router import router as state_router
+from app.api.cities.router import router as city_router
+from app.api.restaurants.router import router as restaurant_router
 # from app.models import *
 
 from app.database.db import Base, engine  # Import Base and engine
@@ -52,6 +56,10 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 # app.include_router(bulk_router)
 # app.include_router(benefits.router)
 app.include_router(places_router)
+app.include_router(country_router)
+app.include_router(state_router)
+app.include_router(city_router)
+app.include_router(restaurant_router)
 # app.include_router(article_router.router)
 
 # Startup event: Create DB tables

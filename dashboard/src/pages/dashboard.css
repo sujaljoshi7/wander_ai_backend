@@ -1,0 +1,12 @@
+.dashboard h2 {
+  margin-top: 0;
+}
+
+.activity {
+  margin: 0;
+  padding-left: 16px;
+}
+
+.activity li {
+  margin: 6px 0;
+}
